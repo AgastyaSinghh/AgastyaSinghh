@@ -6,11 +6,11 @@
 
 ![Github Metrics](https://metrics.lecoq.io/a-g-a-s-t-y-a)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=a-g-a-s-t-y-a)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-g-a-s-t-y-a&theme=tokyonight)](https://github.com/a-g-a-s-t-y-a/github-readme-stats)
 
-
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=a-g-a-s-t-y-a)
 
 
 
