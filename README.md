@@ -5,6 +5,8 @@
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=a-g-a-s-t-y-a&theme=tokyonight)
 
 ![Github Metrics](https://metrics.lecoq.io/a-g-a-s-t-y-a)
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=a-g-a-s-t-y-a)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-g-a-s-t-y-a&theme=tokyonight)](https://github.com/a-g-a-s-t-y-a/github-readme-stats)
 
@@ -12,7 +14,7 @@
 
 
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=a-g-a-s-t-y-a)
+
 -->
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=a-g-a-s-t-y-a.a-g-a-s-t-y-a)
