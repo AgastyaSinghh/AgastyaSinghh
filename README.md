@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :grinning:
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=a-g-a-s-t-y-a&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
 
