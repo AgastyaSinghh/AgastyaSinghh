@@ -6,6 +6,7 @@
 
 ![Github Metrics](https://metrics.lecoq.io/a-g-a-s-t-y-a)
 
+![Profile Views](https://profile-counter.glitch.me/{a-g-a-s-t-y-a}/count.svg)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-g-a-s-t-y-a&theme=tokyonight)](https://github.com/a-g-a-s-t-y-a/github-readme-stats)
