@@ -4,7 +4,7 @@
 
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AgastyaSinghh&theme=tokyonight)
 
-![Github Metrics](https://metrics.lecoq.io/AgastyaSinghh)
+<!-- ![Github Metrics](https://metrics.lecoq.io/AgastyaSinghh) -->
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AgastyaSinghh.AgastyaSinghh)
 <!--
