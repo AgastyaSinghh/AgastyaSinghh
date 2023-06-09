@@ -1,12 +1,12 @@
 ### Hi there :grinning:
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=AgastyaSinghh&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
+<!-- ![My Github stats](https://github-readme-stats.vercel.app/api?username=AgastyaSinghh&show_icons=true&hide_border=true&count_private=true&theme=tokyonight) -->
 
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AgastyaSinghh&theme=tokyonight)
+<!-- ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AgastyaSinghh&theme=tokyonight) -->
 
 <!-- ![Github Metrics](https://metrics.lecoq.io/AgastyaSinghh) -->
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AgastyaSinghh.AgastyaSinghh)
+<!-- ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AgastyaSinghh.AgastyaSinghh) -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgastyaSinghh&theme=tokyonight)](https://github.com/AgastyaSinghh/github-readme-stats)
 
